@@ -81,4 +81,3 @@ html[Attributes Style] {
 user agent stylesheet
 html {
     display: block;
-}
