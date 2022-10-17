@@ -1,1 +1,3 @@
-<p title="Selling digital arts made by Amisha"></p>
+<p 
+about
+="About Sleepy's Artist">We sell digital arts created by Amisha.</p>
